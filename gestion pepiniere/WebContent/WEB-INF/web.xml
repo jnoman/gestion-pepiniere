@@ -59,12 +59,4 @@
     <servlet-name>Detail</servlet-name>
     <url-pattern>/detail</url-pattern>
   </servlet-mapping>
-  <servlet>
-    <servlet-name>Supprimer</servlet-name>
-    <servlet-class>servlets.Supprimer</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>Supprimer</servlet-name>
-    <url-pattern>/supprimer</url-pattern>
-  </servlet-mapping>
 </web-app>
