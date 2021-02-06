@@ -6,5 +6,5 @@ create table article(
     nom varchar(150) NOT NULL,
     description varchar(1500) NOT NULL,
     quantite int(10) not null,
-    image largblob
+    image longblob
 );
